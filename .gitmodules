@@ -1,0 +1,3 @@
+[submodule "git_submodule_sub"]
+	path = git_submodule_sub
+	url = git@github.com:Tetsu-is/git_submodule_sub.git
